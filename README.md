@@ -7,7 +7,6 @@ creamosmetodos
 
 * [Tecnologías utilizadas] (#intelliJ Idea)
 
-*[Personas-Desarrolladores del Proyecto](#Leidy Parra)
 
 *[Proyecto de conexión a base de datos MySQL,MySQL Workbench con Java
 
