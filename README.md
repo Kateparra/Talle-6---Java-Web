@@ -1,10 +1,11 @@
 # Talle-6---Java-Web
-*[Descripción del proyecto](#Talleres 4 y 5 JavaWeb y conexión a bases de datos)
+* [Descripción del proyecto] (#Estamos creando los métodos de crear, modificar y eliminar con una interfaz en java)
 
 
-* [Características de la aplicación y demostración] (#,Conexión a Base de datos, MySql, Mysql Workben,Encrypt,Decrypt)
+* [Características de la aplicación y demostración] (#,Conexión a Base de datos, MySql, Mysql Workben,Encrypt,Decrypt
+creamosmetodos
 
-*[Tecnologías utilizadas](#intelliJ Idea)
+* [Tecnologías utilizadas] (#intelliJ Idea)
 
 *[Personas-Desarrolladores del Proyecto](#Leidy Parra)
 
@@ -12,4 +13,4 @@
 
 *[Requisitos] (#para ejecutar el proyecto se necesitan los siguientes requisitos: Java 8 o superior Maven 2.9.0 o superior Una base de datos MySQL ###Configuración de la base de datos)
 
-*[ ejecutarpara la aplicación,se nesecita configurar la conexión a la base de datos con el siguiente contenido:] (private static final String URL= "jdbcmysql://localhost:3306/my_database serverTimezone=America/Bogota";)
+* [ejecutarpara la aplicación,se nesecita configurar la conexión a la base de datos con el siguiente contenido:] (private static final String URL= "jdbcmysql://localhost:3306/my_database serverTimezone=America/Bogota";)
